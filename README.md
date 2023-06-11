@@ -135,11 +135,11 @@ SIPO:
 
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
-PISO:
+  PISO:
 ![image](https://github.com/Pravin878/Exercise-09-Shift-registers-using-verilog-/assets/118799555/f6491458-91a8-4d3c-9e93-8c9a31d5a771)
-PIPO:
+  PIPO:
 ![image](https://github.com/Pravin878/Exercise-09-Shift-registers-using-verilog-/assets/118799555/0857d086-03f2-4105-9079-7dbee0d6bb41)
-SIPO:
+  SIPO:
 ![image](https://github.com/Pravin878/Exercise-09-Shift-registers-using-verilog-/assets/118799555/78103e68-ee8a-4d53-880c-2adbf1121414)
 
 
